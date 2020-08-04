@@ -20,5 +20,3 @@ Then it will wait for the player to enter their first letter guess.
 If the letter was indeed in the word, the underscores "_" that match that letter will be replaced with the correct letter revealing how many letters have matched their guess and where they are.
 
 If their guess isn't in the movie title, then the output will display the same output as the previous step as well as any letters that have been previously guessed wrong.
-
-If their guess isn't in the movie title, then the output will display the same output as the previous step as well as any letters that have been previously guessed wrong.
